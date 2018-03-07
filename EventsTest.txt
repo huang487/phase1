@@ -1,0 +1,11 @@
+order1 | s1 | 1 | t1 | California Roll, California Roll, Dynamite Roll, Sake
+order1 | c1 | order seen
+order1 | c1 | order filled
+order1 | s1 | order delivered
+order2 | s2 | table 2 | Dynamite roll, Nigiri, Nigiri + 1 Salmon
+order2 | c1 | order seen
+order2 | c1 | order filled
+order2 | s2 | order delivered
+order1 | s1 | return | California Roll | because of hair
+order1 | s1 | addBill | California Roll, Dynamite Roll, Sake
+order1 | c1 | return | California Roll
